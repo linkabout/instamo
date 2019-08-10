@@ -1,8 +1,8 @@
-#Support
+# Support
 
 Thanks for using our apps! if any problem or suggestion, be sure let us know: [instamo.studio@gmail.com](mailto:instamo.studio@gmail.com)
 
-#Terms and Privacy Policy
+# Terms and Privacy Policy
 
 Instamo Studio ("we," and "us") respects the privacy of its users ("you") and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our application or services or transacting business with us. By using our website or application (our "Service"), you are accepting the practices described in this Privacy Policy. 
 
