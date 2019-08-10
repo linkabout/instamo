@@ -2,8 +2,6 @@
 
 Instamo Studio was created by a dad, who wanted to build the simplest apps he could to capture the development of his kids, we hope you love our apps as much as we enjoyed building them and using them ourselves.
 
-# Support
-
 If any problem or suggestion, be sure let us know: [instamo.studio@gmail.com](mailto:instamo.studio@gmail.com)
 
 # Terms and Privacy Policy
